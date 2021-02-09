@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there, I am Paulo! 👋
+#### I'm currently learning to program and making small projects here on GitHub, and lately I've been focusing more in web development
+#### Those are the technologies that I know a bit about (from more knowledge to less): 
+- Python
+- JavaScript
+- Java
+- C++
 
-<!--
-**PauloBacelar/PauloBacelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My GitHub Stats:
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloBacelar&show_icons=true&theme=radical)
+[![Paulo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBacelar&layout=compact&theme=radical)](https://github.com/PauloBacelar/github-readme-stats)
