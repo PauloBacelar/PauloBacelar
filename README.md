@@ -7,5 +7,5 @@
 - C++
 
 #### My GitHub Stats:
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloBacelar&show_icons=true&theme=tokyonight)
 ![Paulo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobacelar&theme=tokyonight)
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloBacelar&show_icons=true&theme=tokyonight)
