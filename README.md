@@ -8,4 +8,3 @@
 
 #### My GitHub Stats:
 ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloBacelar&show_icons=true&theme=radical)
-[![Paulo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBacelar&layout=compact&theme=radical)](https://github.com/PauloBacelar/github-readme-stats)
