@@ -1,8 +1,8 @@
 ### Hi there, I am Paulo! 👋
 #### I'm currently learning to program and making small projects here on GitHub, and lately I've been focusing more in web development
 #### Those are the technologies that I know a bit about (from more knowledge to less): 
-- Python
 - JavaScript
+- Python
 - Java
 - C++
 
