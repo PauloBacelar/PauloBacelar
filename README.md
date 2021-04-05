@@ -5,6 +5,7 @@
 - HTML/CSS
 - Python
 - Java
+- Currently learning ReactJS
 
 #### My GitHub Stats:
 ![Paulo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobacelar&theme=tokyonight)
