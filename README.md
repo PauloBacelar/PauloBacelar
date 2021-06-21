@@ -2,7 +2,8 @@
 
 #### I ❤️ Web Development!
 #### 💻 Front-end Junior Developer
-#### 🖖 Currently deepening my knowledge in front-end and studying React
+#### 🖖 Deepening my knowledge in front-end
+#### 🌱 Currently studying React
 #### 👨‍💻 Can't wait to study back-end someday!
 
 ## My Stack 📚
