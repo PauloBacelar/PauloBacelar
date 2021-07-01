@@ -4,7 +4,7 @@
 #### 💻 Front-end Junior Developer
 #### 🖖 Deepening my knowledge in front-end
 #### 🌱 Currently studying React and NodeJS
-#### 💼 Take a look at <a href="https://paulobacelar.github.io/" target="_blank">my portoflio</a> 
+#### 💼 Take a look at <a href="https://paulobacelar.github.io/">my portfolio</a> 
 ## My Stack 📚
 <table>
   <tbody>
