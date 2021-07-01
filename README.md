@@ -3,9 +3,8 @@
 #### I ❤️ Web Development!
 #### 💻 Front-end Junior Developer
 #### 🖖 Deepening my knowledge in front-end
-#### 🌱 Currently studying React
-#### 👨‍💻 Can't wait to study back-end someday!
-
+#### 🌱 Currently studying React and NodeJS
+#### 💼 Take a look at <a href="https://paulobacelar.github.io/" target="_blank">my portoflio</a> 
 ## My Stack 📚
 <table>
   <tbody>
