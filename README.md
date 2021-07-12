@@ -3,7 +3,7 @@
 #### I ❤️ Web Development!
 #### 💻 Front-end Junior Developer
 #### 🖖 Deepening my knowledge in front-end
-#### 🌱 Currently studying React and NodeJS
+#### 🌱 Currently studying React
 #### 💼 Take a look at <a href="https://paulobacelar.github.io/">my portfolio</a> 
 ## My Stack 📚
 <table>
@@ -58,4 +58,4 @@
 ![Paulo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobacelar&theme=tokyonight)
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulobacelar&theme=tokyonight)](https://git.io/streak-stats) 
 
-![qweqweqwe](https://komarev.com/ghpvc/?username=paulobacelar)
+![Profile views](https://komarev.com/ghpvc/?username=paulobacelar)
