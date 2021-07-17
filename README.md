@@ -6,52 +6,10 @@
 #### 🌱 Currently studying React
 #### 💼 Take a look at <a href="https://paulobacelar.github.io/">my portfolio</a> 
 ## My Stack 📚
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Linux</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Java</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+<h3 align="left">Languages</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 
 ## **GitHub Stats 📊**
 
