@@ -1,7 +1,7 @@
 ## Hello, I'm Paulo! 👋
 
 #### I ❤️ Web Development!
-#### 💻 Front-end Junior Developer
+#### 💻 Front-end developer
 #### 🖖 Deepening my knowledge in front-end
 #### 🌱 Currently studying React
 #### 💼 Take a look at <a href="https://paulobacelar.github.io/">my portfolio</a> 
