@@ -1,4 +1,4 @@
-## Hello, I'm Paulo! 👋
+## Hi, I'm Paulo! 👋
 
 #### I ❤️ Web Development!
 #### 💻 Front-end developer
