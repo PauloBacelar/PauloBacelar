@@ -34,7 +34,7 @@
 
 ## **GitHub Stats 📊**
 
-![Paulo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobacelar&theme=tokyonight)
+![Paulo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobacelar&exclude_repo=github-readme-stats,paulobacelar.github.io&layout=compact&theme=tokyonight)
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulobacelar&theme=tokyonight)](https://git.io/streak-stats) 
 
 ![Profile views](https://komarev.com/ghpvc/?username=paulobacelar)
