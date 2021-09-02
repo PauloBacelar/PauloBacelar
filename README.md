@@ -4,7 +4,6 @@
 #### 💻 Front-end developer
 #### 🖖 Deepening my knowledge in front-end
 #### 🌱 Currently studying React
-#### 💼 Take a look at <a href="https://paulobacelar.github.io/">my portfolio</a> 
 ## My Stack 📚
 <h3 align="left">Languages</h3>
 <p align="left">
