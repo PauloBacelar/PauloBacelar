@@ -32,7 +32,7 @@
 
 ## **GitHub Stats 📊**
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulobacelar&theme=tokyonight)](https://git.io/streak-stats) 
-![Paulo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobacelar&exclude_repo=github-readme-stats,paulobacelar.github.io&layout=compact&theme=tokyonight)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulobacelar)](https://git.io/streak-stats) 
+![Paulo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobacelar&exclude_repo=github-readme-stats,paulobacelar.github.io&layout=compact)
 
 ![Profile views](https://komarev.com/ghpvc/?username=paulobacelar)
