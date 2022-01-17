@@ -1,7 +1,9 @@
 ## Hello, I am Paulo! 👋
 
 #### 💻 Front-end developer
-#### 🌱 Currently studying React and Node
+#### 🌱 Currently studying React
+#### 💼 Checkout <a href="https://paulobacelar.github.io">my portfolio</a> to see my works
+#### 👨🏻‍💻 HTML, CSS, JavaScript, React, Sass and Bootstrap are the technologies that I work the most
 
 <div>
  <img src="http://github-readme-streak-stats.herokuapp.com?user=paulobacelar" alt="Commit streak"/>
