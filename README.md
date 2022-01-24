@@ -7,7 +7,7 @@
 
 <div>
  <img src="http://github-readme-streak-stats.herokuapp.com?user=paulobacelar" alt="Commit streak"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulobacelar&exclude_repo=github-readme-stats,paulobacelar.github.io&layout=compact" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulobacelar&layout=compact" />
 </div>
 
 <hr />
