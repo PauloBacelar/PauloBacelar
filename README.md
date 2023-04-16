@@ -1,6 +1,6 @@
 ### Hey, I am Paulo! 👋
 
-💻 Front-end developer <br />
+💻 Software developer <br />
 💼 Checkout <a href="https://paulobacelar.github.io">my portfolio</a> to see my works
 
 <hr />
